@@ -1,0 +1,9 @@
+TABLA DE LITERALES CADENAS (CLASE 4)
+POSICION	DATO
+0	"Hola mundo"
+1	'a'
+2	'&'
+3	"'"
+4	'"'
+5	"Ejemplo de cadena"
+6	"   "
